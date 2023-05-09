@@ -1,7 +1,10 @@
 [package]
 name = "gentex"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
+description = "Generate latex code for different latex libraries"
+repository = "https://github.com/LaSpruca/gentex"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
